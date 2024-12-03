@@ -1,0 +1,2378 @@
+[
+  {
+    "category_name": "Natale",
+    "url": "https://www.spesaonline.unes.it/natale2024",
+    "has_subcategories": false,
+    "filter": "tags:'natale2024'"
+  },
+  {
+    "category_name": "Frutta e verdura",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Frutta fresca",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Frutta-fresca/c/001001",
+        "filter": "categories:001001",
+        "third_level": [
+          {
+            "third_level_name": "Angurie e Meloni",
+            "third_level_url": null,
+            "filter": null
+          },
+          {
+            "third_level_name": "Mele e pere",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Frutta-fresca/Mele-e-pere/c/001001001",
+            "filter": "categories:001001001"
+          },
+          {
+            "third_level_name": "Frutta esotica",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Frutta-fresca/Frutta-esotica/c/001001002",
+            "filter": "categories:001001002"
+          },
+          {
+            "third_level_name": "Frutta di stagione",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Frutta-fresca/Frutta-di-stagione/c/001001003",
+            "filter": "categories:001001003"
+          },
+          {
+            "third_level_name": "Agrumi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Frutta-fresca/Agrumi/c/001001004",
+            "filter": "categories:001001004"
+          },
+          {
+            "third_level_name": "Frutti di bosco",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Frutta-fresca/Frutti-di-bosco/c/001001005",
+            "filter": "categories:001001005"
+          },
+          {
+            "third_level_name": "Altra frutta",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Frutta-fresca/Altra-frutta/c/001001006",
+            "filter": "categories:001001006"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Verdura fresca",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Verdura-fresca/c/001002",
+        "filter": "categories:001002",
+        "third_level": [
+          {
+            "third_level_name": "Ortaggi a foglia",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Verdura-fresca/Ortaggi-a-foglia/c/001002007",
+            "filter": "categories:001002007"
+          },
+          {
+            "third_level_name": "Pomodori e peperoni",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Verdura-fresca/Pomodori-e-peperoni/c/001002008",
+            "filter": "categories:001002008"
+          },
+          {
+            "third_level_name": "Insalate in busta",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Verdura-fresca/Insalate-in-busta/c/001002009",
+            "filter": "categories:001002009"
+          },
+          {
+            "third_level_name": "Melanzane e zucchine",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Verdura-fresca/Melanzane-e-zucchine/c/001002010",
+            "filter": "categories:001002010"
+          },
+          {
+            "third_level_name": "Aglio e cipolle",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Verdura-fresca/Aglio-e-cipolle/c/001002011",
+            "filter": "categories:001002011"
+          },
+          {
+            "third_level_name": "Carote e finocchi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Verdura-fresca/Carote-e-finocchi/c/001002012",
+            "filter": "categories:001002012"
+          },
+          {
+            "third_level_name": "Altre verdure",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Verdura-fresca/Altre-verdure/c/001002013",
+            "filter": "categories:001002013"
+          },
+          {
+            "third_level_name": "Aromi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Verdura-fresca/Aromi/c/001002014",
+            "filter": "categories:001002014"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Bio, Km0, Residuo Zero",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Bio%2C-Km0%2C-Residuo-Zero/c/001003",
+        "filter": "categories:001003",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Frutta secca",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Frutta-secca/c/001005",
+        "filter": "categories:001005",
+        "third_level": [
+          {
+            "third_level_name": "Frutta secca",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Frutta-secca/Frutta-secca/c/001005020",
+            "filter": "categories:001005020"
+          },
+          {
+            "third_level_name": "Frutta disidratata",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Frutta-secca/Frutta-disidratata/c/001005021",
+            "filter": "categories:001005021"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Semi e legumi",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Semi-e-legumi/c/001006",
+        "filter": "categories:001006",
+        "third_level": [
+          {
+            "third_level_name": "Semi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Semi-e-legumi/Semi/c/001006022",
+            "filter": "categories:001006022"
+          },
+          {
+            "third_level_name": "Legumi secchi e cereali",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Semi-e-legumi/Legumi-secchi-e-cereali/c/001006023",
+            "filter": "categories:001006023"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Patate e olive",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Patate-e-olive/c/001007",
+        "filter": "categories:001007",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Zuppe e piatti pronti",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Zuppe-e-piatti-pronti/c/001008",
+        "filter": "categories:001008",
+        "third_level": [
+          {
+            "third_level_name": "Zuppe e piatti pronti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Zuppe-e-piatti-pronti/Zuppe-e-piatti-pronti/c/001008025",
+            "filter": "categories:001008025"
+          },
+          {
+            "third_level_name": "Verdura cotta",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Zuppe-e-piatti-pronti/Verdura-cotta/c/001008026",
+            "filter": "categories:001008026"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Spremute ed estratti",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Frutta-e-verdura/Spremute-ed-estratti/c/001009",
+        "filter": "categories:001009",
+        "third_level": []
+      }
+    ]
+  },
+  {
+    "category_name": "Pane e pasticceria",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Pane",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Pane/c/002010",
+        "filter": "categories:002010",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Pizze e focacce",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Pizze-e-focacce/c/002011",
+        "filter": "categories:002011",
+        "third_level": [
+          {
+            "third_level_name": "Pizze",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Pizze-e-focacce/Pizze/c/002011029",
+            "filter": "categories:002011029"
+          },
+          {
+            "third_level_name": "Focacce",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Pizze-e-focacce/Focacce/c/002011030",
+            "filter": "categories:002011030"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Pane a fette",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Pane-a-fette/c/002012",
+        "filter": "categories:002012",
+        "third_level": [
+          {
+            "third_level_name": "Pane a fette",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Pane-a-fette/Pane-a-fette/c/002012031",
+            "filter": "categories:002012031"
+          },
+          {
+            "third_level_name": "Pane confezionato",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Pane-a-fette/Pane-confezionato/c/002012032",
+            "filter": "categories:002012032"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Piadine e gallette",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Piadine-e-gallette/c/002013",
+        "filter": "categories:002013",
+        "third_level": [
+          {
+            "third_level_name": "Piadine",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Piadine-e-gallette/Piadine/c/002013033",
+            "filter": "categories:002013033"
+          },
+          {
+            "third_level_name": "Gallette",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Piadine-e-gallette/Gallette/c/002013034",
+            "filter": "categories:002013034"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Crackers e grissini",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Crackers-e-grissini/c/002014",
+        "filter": "categories:002014",
+        "third_level": [
+          {
+            "third_level_name": "Crackers",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Crackers-e-grissini/Crackers/c/002014035",
+            "filter": "categories:002014035"
+          },
+          {
+            "third_level_name": "Grissini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Crackers-e-grissini/Grissini/c/002014036",
+            "filter": "categories:002014036"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Crostini e taralli",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Crostini-e-taralli/c/002015",
+        "filter": "categories:002015",
+        "third_level": [
+          {
+            "third_level_name": "Crostini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Crostini-e-taralli/Crostini/c/002015037",
+            "filter": "categories:002015037"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Pasticceria",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Pasticceria/c/002016",
+        "filter": "categories:002016",
+        "third_level": [
+          {
+            "third_level_name": "Torte",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Pasticceria/Torte/c/002016038",
+            "filter": "categories:002016038"
+          },
+          {
+            "third_level_name": "Pasticceria secca",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Pane-e-pasticceria/Pasticceria/Pasticceria-secca/c/002016039",
+            "filter": "categories:002016039"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Latticini, formaggi e uova",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Latte, panna e burro",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Latte%2C-panna-e-burro/c/003017",
+        "filter": "categories:003017",
+        "third_level": [
+          {
+            "third_level_name": "Latte fresco",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Latte%2C-panna-e-burro/Latte-fresco/c/003017040",
+            "filter": "categories:003017040"
+          },
+          {
+            "third_level_name": "Latte a lunga conservazione",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Latte%2C-panna-e-burro/Latte-a-lunga-conservazione/c/003017041",
+            "filter": "categories:003017041"
+          },
+          {
+            "third_level_name": "Panna e besciamella",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Latte%2C-panna-e-burro/Panna-e-besciamella/c/003017042",
+            "filter": "categories:003017042"
+          },
+          {
+            "third_level_name": "Burro e margarina",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Latte%2C-panna-e-burro/Burro-e-margarina/c/003017043",
+            "filter": "categories:003017043"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Yogurt e dessert",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Yogurt-e-dessert/c/003018",
+        "filter": "categories:003018",
+        "third_level": [
+          {
+            "third_level_name": "Yogurt benessere e da bere",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Yogurt-e-dessert/Yogurt-benessere-e-da-bere/c/003018044",
+            "filter": "categories:003018044"
+          },
+          {
+            "third_level_name": "Yogurt magro bianco",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Yogurt-e-dessert/Yogurt-magro-bianco/c/003018045",
+            "filter": "categories:003018045"
+          },
+          {
+            "third_level_name": "Yogurt magro ai gusti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Yogurt-e-dessert/Yogurt-magro-ai-gusti/c/003018046",
+            "filter": "categories:003018046"
+          },
+          {
+            "third_level_name": "Yogurt intero bianco",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Yogurt-e-dessert/Yogurt-intero-bianco/c/003018047",
+            "filter": "categories:003018047"
+          },
+          {
+            "third_level_name": "Yogurt intero ai gusti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Yogurt-e-dessert/Yogurt-intero-ai-gusti/c/003018048",
+            "filter": "categories:003018048"
+          },
+          {
+            "third_level_name": "Yogurt da mixare",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Yogurt-e-dessert/Yogurt-da-mixare/c/003018049",
+            "filter": "categories:003018049"
+          },
+          {
+            "third_level_name": "Budini e dessert",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Yogurt-e-dessert/Budini-e-dessert/c/003018050",
+            "filter": "categories:003018050"
+          },
+          {
+            "third_level_name": "Snack e merende bimbi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Yogurt-e-dessert/Snack-e-merende-bimbi/c/003018051",
+            "filter": "categories:003018051"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Formaggi confezionati",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Formaggi-confezionati/c/003019",
+        "filter": "categories:003019",
+        "third_level": [
+          {
+            "third_level_name": "Formaggi stagionati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Formaggi-confezionati/Grana-e-grattugiati/c/003019052",
+            "filter": "categories:003019052"
+          },
+          {
+            "third_level_name": "Mozzarelle",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Formaggi-confezionati/Mozzarelle/c/003019053",
+            "filter": "categories:003019053"
+          },
+          {
+            "third_level_name": "Formaggi spalmabili",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Formaggi-confezionati/Formaggi-spalmabili/c/003019054",
+            "filter": "categories:003019054"
+          },
+          {
+            "third_level_name": "Formaggi molli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Formaggi-confezionati/Formaggi-molli/c/003019055",
+            "filter": "categories:003019055"
+          },
+          {
+            "third_level_name": "Formaggi a fette",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Formaggi-confezionati/Formaggi-a-fette/c/003019056",
+            "filter": "categories:003019056"
+          },
+          {
+            "third_level_name": "Altri formaggi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Formaggi-confezionati/Altri-formaggi/c/003019057",
+            "filter": "categories:003019057"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Formaggi del banco",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Formaggi-del-banco/c/003020",
+        "filter": "categories:003020",
+        "third_level": [
+          {
+            "third_level_name": "Formaggi duri",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Formaggi-del-banco/Formaggi-duri/c/003020058",
+            "filter": "categories:003020058"
+          },
+          {
+            "third_level_name": "Formaggi molli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Formaggi-del-banco/Formaggi-molli/c/003020059",
+            "filter": "categories:003020059"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Uova",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Latticini%2C-formaggi-e-uova/Uova/c/003021",
+        "filter": "categories:003021",
+        "third_level": []
+      }
+    ]
+  },
+  {
+    "category_name": "Salumi e gastronomia",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Salumi confezionati",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-confezionati/c/004022",
+        "filter": "categories:004022",
+        "third_level": [
+          {
+            "third_level_name": "Prosciutto cotto",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-confezionati/Prosciutto-cotto/c/004022061",
+            "filter": "categories:004022061"
+          },
+          {
+            "third_level_name": "Prosciutto crudo",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-confezionati/Prosciutto-crudo/c/004022062",
+            "filter": "categories:004022062"
+          },
+          {
+            "third_level_name": "Salame",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-confezionati/Salame/c/004022063",
+            "filter": "categories:004022063"
+          },
+          {
+            "third_level_name": "Bresaola",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-confezionati/Bresaola/c/004022064",
+            "filter": "categories:004022064"
+          },
+          {
+            "third_level_name": "Pollo e tacchino",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-confezionati/Pollo-e-tacchino/c/004022065",
+            "filter": "categories:004022065"
+          },
+          {
+            "third_level_name": "Altri salumi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-confezionati/Altri-salumi/c/004022066",
+            "filter": "categories:004022066"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Salumi del banco",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-del-banco/c/004023",
+        "filter": "categories:004023",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Salumi interi e a cubetti",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-interi-e-a-cubetti/c/004024",
+        "filter": "categories:004024",
+        "third_level": [
+          {
+            "third_level_name": "Salami",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-interi-e-a-cubetti/Salami/c/004024069",
+            "filter": "categories:004024069"
+          },
+          {
+            "third_level_name": "Salumi in tranci",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-interi-e-a-cubetti/Salumi-in-tranci/c/004024070",
+            "filter": "categories:004024070"
+          },
+          {
+            "third_level_name": "Salumi a cubetti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-interi-e-a-cubetti/Salumi-a-cubetti/c/004024071",
+            "filter": "categories:004024071"
+          },
+          {
+            "third_level_name": "Wurstel e zamponi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Salumi-interi-e-a-cubetti/Wurstel-e-zamponi/c/004024072",
+            "filter": "categories:004024072"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Pasta e sughi freschi",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Pasta-e-sughi-freschi/c/004025",
+        "filter": "categories:004025",
+        "third_level": [
+          {
+            "third_level_name": "Gnocchi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Pasta-e-sughi-freschi/Gnocchi/c/004025073",
+            "filter": "categories:004025073"
+          },
+          {
+            "third_level_name": "Pasta ripiena",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Pasta-e-sughi-freschi/Pasta-ripiena/c/004025075",
+            "filter": "categories:004025075"
+          },
+          {
+            "third_level_name": "Pasta all'uovo",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Pasta-e-sughi-freschi/Pasta-all%27uovo/c/004025076",
+            "filter": "categories:004025076"
+          },
+          {
+            "third_level_name": "Pasta di semola",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Pasta-e-sughi-freschi/Pasta-di-semola/c/004025077",
+            "filter": "categories:004025077"
+          },
+          {
+            "third_level_name": "Pesto e sughi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Pasta-e-sughi-freschi/Pesto-e-sughi/c/004025078",
+            "filter": "categories:004025078"
+          },
+          {
+            "third_level_name": "Basi dolci e salate",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Pasta-e-sughi-freschi/Basi-dolci-e-salate/c/004025079",
+            "filter": "categories:004025079"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Gastronomia",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Gastronomia/c/004026",
+        "filter": "categories:004026",
+        "third_level": [
+          {
+            "third_level_name": "Antipasti e contorni",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Gastronomia/Antipasti-e-contorni/c/004026080",
+            "filter": "categories:004026080"
+          },
+          {
+            "third_level_name": "Primi piatti pronti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Gastronomia/Primi-piatti-pronti/c/004026081",
+            "filter": "categories:004026081"
+          },
+          {
+            "third_level_name": "Secondi piatti pronti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Gastronomia/Secondi-piatti-pronti/c/004026082",
+            "filter": "categories:004026082"
+          },
+          {
+            "third_level_name": "Piatti pronti base pesce",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Salumi-e-gastronomia/Gastronomia/Piatti-pronti-base-pesce/c/004026083",
+            "filter": "categories:004026083"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Carne",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Bovino e vitello",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Carne/Bovino-e-vitello/c/005027",
+        "filter": "categories:005027",
+        "third_level": [
+          {
+            "third_level_name": "Bovino",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Carne/Bovino-e-vitello/Bovino/c/005027084",
+            "filter": "categories:005027084"
+          },
+          {
+            "third_level_name": "Vitello",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Carne/Bovino-e-vitello/Vitello/c/005027085",
+            "filter": "categories:005027085"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Pollame",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Carne/Pollame/c/005028",
+        "filter": "categories:005028",
+        "third_level": [
+          {
+            "third_level_name": "Pollo",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Carne/Pollame/Pollo/c/005028086",
+            "filter": "categories:005028086"
+          },
+          {
+            "third_level_name": "Tacchino",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Carne/Pollame/Tacchino/c/005028087",
+            "filter": "categories:005028087"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Maiale",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Carne/Maiale/c/005029",
+        "filter": "categories:005029",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Altre carni",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Carne/Altre-carni/c/005030",
+        "filter": "categories:005030",
+        "third_level": [
+          {
+            "third_level_name": "Coniglio",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Carne/Altre-carni/Coniglio/c/005030089",
+            "filter": "categories:005030089"
+          },
+          {
+            "third_level_name": "Ovino",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Carne/Altre-carni/Ovino/c/005030090",
+            "filter": "categories:005030090"
+          },
+          {
+            "third_level_name": "Equino",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Carne/Altre-carni/Equino/c/005030091",
+            "filter": "categories:005030091"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Pronti da cuocere",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Carne/Pronti-da-cuocere/c/005031",
+        "filter": "categories:005031",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Selvaggina",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Carne/Selvaggina/c/005032",
+        "filter": "categories:005032",
+        "third_level": []
+      }
+    ]
+  },
+  {
+    "category_name": "Pesce e sushi",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Pesci di mare e acqua dolce",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pesce-e-sushi/Pesci-di-mare-e-acqua-dolce/c/006033",
+        "filter": "categories:006033",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Molluschi e crostacei",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pesce-e-sushi/Molluschi-e-crostacei/c/006034",
+        "filter": "categories:006034",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Cozze, vongole e mitili",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pesce-e-sushi/Cozze%2C-vongole-e-mitili/c/006035",
+        "filter": "categories:006035",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Specialita' di mare",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pesce-e-sushi/Specialit%C3%A0-di-mare/c/006036",
+        "filter": "categories:006036",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Sushi e poke",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Pesce-e-sushi/Sushi-e-poke/c/006037",
+        "filter": "categories:006037",
+        "third_level": []
+      }
+    ]
+  },
+  {
+    "category_name": "Dispensa salata",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Pasta",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Pasta/c/007038",
+        "filter": "categories:007038",
+        "third_level": [
+          {
+            "third_level_name": "Pasta di semola lunga",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Pasta/Pasta-di-semola-lunga/c/007038101",
+            "filter": "categories:007038101"
+          },
+          {
+            "third_level_name": "Pasta di semola corta",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Pasta/Pasta-di-semola-corta/c/007038102",
+            "filter": "categories:007038102"
+          },
+          {
+            "third_level_name": "Pasta integrale",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Pasta/Pasta-integrale/c/007038103",
+            "filter": "categories:007038103"
+          },
+          {
+            "third_level_name": "Altri tipi di pasta",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Pasta/Altri-tipi-di-pasta/c/007038104",
+            "filter": "categories:007038104"
+          },
+          {
+            "third_level_name": "Pastina",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Pasta/Pastina/c/007038105",
+            "filter": "categories:007038105"
+          },
+          {
+            "third_level_name": "Pasta all'uovo",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Pasta/Pasta-all%27uovo/c/007038106",
+            "filter": "categories:007038106"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Riso",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Riso/c/007039",
+        "filter": "categories:007039",
+        "third_level": [
+          {
+            "third_level_name": "Riso",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Riso/Riso-/c/007039107",
+            "filter": "categories:007039107"
+          },
+          {
+            "third_level_name": "Risotti pronti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Riso/Risotti-pronti/c/007039109",
+            "filter": "categories:007039109"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Farine e piatti pronti",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Farine-e-piatti-pronti/c/007040",
+        "filter": "categories:007040",
+        "third_level": [
+          {
+            "third_level_name": "Farina di grano",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Farine-e-piatti-pronti/Farina-di-grano/c/007040110",
+            "filter": "categories:007040110"
+          },
+          {
+            "third_level_name": "Altri tipi di farine",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Farine-e-piatti-pronti/Altri-tipi-di-farine/c/007040111",
+            "filter": "categories:007040111"
+          },
+          {
+            "third_level_name": "Polente e pure'",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Farine-e-piatti-pronti/Polente-e-pure%27/c/007040112",
+            "filter": "categories:007040112"
+          },
+          {
+            "third_level_name": "Zuppe e minestre pronte",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Farine-e-piatti-pronti/Zuppe-e-minestre-pronte/c/007040113",
+            "filter": "categories:007040113"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Sughi, passate e pelati",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Sughi%2C-passate-e-pelati/c/007041",
+        "filter": "categories:007041",
+        "third_level": [
+          {
+            "third_level_name": "Passata di pomodoro",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Sughi%2C-passate-e-pelati/Passata-di-pomodoro/c/007041114",
+            "filter": "categories:007041114"
+          },
+          {
+            "third_level_name": "Polpa e pelati di pomodoro",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Sughi%2C-passate-e-pelati/Polpa-e-pelati-di-pomodoro/c/007041115",
+            "filter": "categories:007041115"
+          },
+          {
+            "third_level_name": "Pesto",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Sughi%2C-passate-e-pelati/Pesto/c/007041116",
+            "filter": "categories:007041116"
+          },
+          {
+            "third_level_name": "Sughi di carne e pesce",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Sughi%2C-passate-e-pelati/Sughi-di-carne-e-pesce/c/007041117",
+            "filter": "categories:007041117"
+          },
+          {
+            "third_level_name": "Sughi di verdure",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Sughi%2C-passate-e-pelati/Sughi-di-verdure/c/007041118",
+            "filter": "categories:007041118"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Olio, aceto, sale e spezie",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Olio%2C-aceto%2C-sale-e-spezie/c/007042",
+        "filter": "categories:007042",
+        "third_level": [
+          {
+            "third_level_name": "Olio di oliva",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Olio%2C-aceto%2C-sale-e-spezie/Olio-di-oliva/c/007042119",
+            "filter": "categories:007042119"
+          },
+          {
+            "third_level_name": "Olio di semi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Olio%2C-aceto%2C-sale-e-spezie/Olio-di-semi/c/007042120",
+            "filter": "categories:007042120"
+          },
+          {
+            "third_level_name": "Aceto",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Olio%2C-aceto%2C-sale-e-spezie/Aceto/c/007042121",
+            "filter": "categories:007042121"
+          },
+          {
+            "third_level_name": "Sale",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Olio%2C-aceto%2C-sale-e-spezie/Sale/c/007042122",
+            "filter": "categories:007042122"
+          },
+          {
+            "third_level_name": "Insaporitori e zafferano",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Olio%2C-aceto%2C-sale-e-spezie/Insaporitori-e-zafferano/c/007042123",
+            "filter": "categories:007042123"
+          },
+          {
+            "third_level_name": "Spezie e aromi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Olio%2C-aceto%2C-sale-e-spezie/Spezie-e-aromi/c/007042124",
+            "filter": "categories:007042124"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Verdure in scatola",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Legumi/c/007043",
+        "filter": "categories:007043",
+        "third_level": [
+          {
+            "third_level_name": "Fagioli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Legumi/Fagioli/c/007043125",
+            "filter": "categories:007043125"
+          },
+          {
+            "third_level_name": "Altri legumi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Legumi/Altri-legumi/c/007043126",
+            "filter": "categories:007043126"
+          },
+          {
+            "third_level_name": "Mais e piselli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Legumi/Mais-e-piselli/c/007043127",
+            "filter": "categories:007043127"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Salatini e salse",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Snack-salati-e-salse/c/007044",
+        "filter": "categories:007044",
+        "third_level": [
+          {
+            "third_level_name": "Patatine e pop corn",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Snack-salati-e-salse/Patatine-e-pop-corn/c/007044128",
+            "filter": "categories:007044128"
+          },
+          {
+            "third_level_name": "Salatini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Snack-salati-e-salse/Snack-salati/c/007044129",
+            "filter": "categories:007044129"
+          },
+          {
+            "third_level_name": "Maionese, senape e ketchup",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Snack-salati-e-salse/Maionese%2C-senape-e-ketchup/c/007044130",
+            "filter": "categories:007044130"
+          },
+          {
+            "third_level_name": "Mostarde e altre salse",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Snack-salati-e-salse/Mostarde-e-altre-salse/c/007044131",
+            "filter": "categories:007044131"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Conserve vegetali, di carne e di pesce",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Conserve-vegetali%2C-di-carne-e-di-pesce/c/007045",
+        "filter": "categories:007045",
+        "third_level": [
+          {
+            "third_level_name": "Sottoli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Conserve-vegetali%2C-di-carne-e-di-pesce/Sottoli/c/007045132",
+            "filter": "categories:007045132"
+          },
+          {
+            "third_level_name": "Sottaceti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Conserve-vegetali%2C-di-carne-e-di-pesce/Sottaceti/c/007045133",
+            "filter": "categories:007045133"
+          },
+          {
+            "third_level_name": "Conserve di tonno ",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Conserve-vegetali%2C-di-carne-e-di-pesce/Tonno-in-scatola/c/007045134",
+            "filter": "categories:007045134"
+          },
+          {
+            "third_level_name": "Alici e sardine",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Conserve-vegetali%2C-di-carne-e-di-pesce/Alici-e-sardine/c/007045135",
+            "filter": "categories:007045135"
+          },
+          {
+            "third_level_name": "Altri pesci in scatola",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Conserve-vegetali%2C-di-carne-e-di-pesce/Altri-pesci-in-scatola/c/007045136",
+            "filter": "categories:007045136"
+          },
+          {
+            "third_level_name": "Carne in scatola",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Conserve-vegetali%2C-di-carne-e-di-pesce/Carne-in-scatola/c/007045137",
+            "filter": "categories:007045137"
+          },
+          {
+            "third_level_name": "Frutta sciroppata",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Conserve-vegetali%2C-di-carne-e-di-pesce/Frutta-sciroppata/c/007045138",
+            "filter": "categories:007045138"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cibi etnici",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Cibi-etnici/c/007046",
+        "filter": "categories:007046",
+        "third_level": [
+          {
+            "third_level_name": "Cucina messicana",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Cibi-etnici/Cucina-messicana/c/007046139",
+            "filter": "categories:007046139"
+          },
+          {
+            "third_level_name": "Cucina etnica",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-salata/Cibi-etnici/Cucina-etnica/c/007046140",
+            "filter": "categories:007046140"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Dispensa dolce",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Caffe', te, infusi e zucchero",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/c/008047",
+        "filter": "categories:008047",
+        "third_level": [
+          {
+            "third_level_name": "Caffè in capsule",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/Caff%C3%A8-in-capsule/c/008047142",
+            "filter": "categories:008047142"
+          },
+          {
+            "third_level_name": "Caffè in grani",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/Caff%C3%A8-in-grani/c/008047143",
+            "filter": "categories:008047143"
+          },
+          {
+            "third_level_name": "Caffè in cialde e solubile",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/Caff%C3%A8-in-cialde-e-solubile/c/008047144",
+            "filter": "categories:008047144"
+          },
+          {
+            "third_level_name": "Caffè macinato",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/Caff%C3%A8-macinato/c/008047145",
+            "filter": "categories:008047145"
+          },
+          {
+            "third_level_name": "Orzo e similari",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/Orzo-e-similari/c/008047146",
+            "filter": "categories:008047146"
+          },
+          {
+            "third_level_name": "Te e te deteinato",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/Te-e-te-deteinato/c/008047147",
+            "filter": "categories:008047147"
+          },
+          {
+            "third_level_name": "Camomilla",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/Camomilla/c/008047149",
+            "filter": "categories:008047149"
+          },
+          {
+            "third_level_name": "Infusi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/Infusi/c/008047150",
+            "filter": "categories:008047150"
+          },
+          {
+            "third_level_name": "Tisane",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/Tisane/c/008047151",
+            "filter": "categories:008047151"
+          },
+          {
+            "third_level_name": "Zucchero e dolcificanti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caff%C3%A8%2C-te%2C-infusi-e-zucchero/Zucchero-e-dolcificanti/c/008047152",
+            "filter": "categories:008047152"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Fette biscottate e biscotti",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Fette-biscottate-e-biscotti/c/008048",
+        "filter": "categories:008048",
+        "third_level": [
+          {
+            "third_level_name": "Fette biscottate",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Fette-biscottate-e-biscotti/Fette-biscottate/c/008048153",
+            "filter": "categories:008048153"
+          },
+          {
+            "third_level_name": "Biscotti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Fette-biscottate-e-biscotti/Biscotti/c/008048154",
+            "filter": "categories:008048154"
+          },
+          {
+            "third_level_name": "Biscotti al cacao",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Fette-biscottate-e-biscotti/Biscotti-al-cacao/c/008048155",
+            "filter": "categories:008048155"
+          },
+          {
+            "third_level_name": "Biscotti integrali, ai cereali e senza zucchero",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Fette-biscottate-e-biscotti/Biscotti-integrali%2C-ai-cereali-e-senza-zucchero/c/008048156",
+            "filter": "categories:008048156"
+          },
+          {
+            "third_level_name": "Wafers",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Fette-biscottate-e-biscotti/Wafers/c/008048160",
+            "filter": "categories:008048160"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cereali e barrette",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cereali-e-barrette/c/008049",
+        "filter": "categories:008049",
+        "third_level": [
+          {
+            "third_level_name": "Cereali benessere",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cereali-e-barrette/Cereali-benessere/c/008049161",
+            "filter": "categories:008049161"
+          },
+          {
+            "third_level_name": "Cereali per bimbi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cereali-e-barrette/Cereali-per-bimbi/c/008049162",
+            "filter": "categories:008049162"
+          },
+          {
+            "third_level_name": "Muesli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cereali-e-barrette/Muesli/c/008049163",
+            "filter": "categories:008049163"
+          },
+          {
+            "third_level_name": "Barrette",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cereali-e-barrette/Barrette/c/008049164",
+            "filter": "categories:008049164"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cioccolato",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cioccolato/c/008050",
+        "filter": "categories:008050",
+        "third_level": [
+          {
+            "third_level_name": "Tavolette di cioccolato al latte",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cioccolato/Tavolette-di-cioccolato-al-latte/c/008050165",
+            "filter": "categories:008050165"
+          },
+          {
+            "third_level_name": "Tavolette di cioccolato fondente",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cioccolato/Tavolette-di-cioccolato-fondente/c/008050166",
+            "filter": "categories:008050166"
+          },
+          {
+            "third_level_name": "Tavolette di cioccolato bianco e con nocciole",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cioccolato/Tavolette-di-cioccolato-bianco-e-con-nocciole/c/008050167",
+            "filter": "categories:008050167"
+          },
+          {
+            "third_level_name": "Altre tavolette di cioccolato",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cioccolato/Altre-tavolette-di-cioccolato/c/008050168",
+            "filter": "categories:008050168"
+          },
+          {
+            "third_level_name": "Cioccolatini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cioccolato/Cioccolatini/c/008050169",
+            "filter": "categories:008050169"
+          },
+          {
+            "third_level_name": "Snack di cioccolato",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Cioccolato/Snack-di-cioccolato/c/008050170",
+            "filter": "categories:008050170"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Confetture, miele e creme spalmabili",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Confetture%2C-miele-e-creme-spalmabili/c/008051",
+        "filter": "categories:008051",
+        "third_level": [
+          {
+            "third_level_name": "Confetture di fragola e frutti di bosco",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Confetture%2C-miele-e-creme-spalmabili/Confetture-di-fragola-e-frutti-di-bosco/c/008051171",
+            "filter": "categories:008051171"
+          },
+          {
+            "third_level_name": "Confetture di altri gusti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Confetture%2C-miele-e-creme-spalmabili/Confetture-di-altri-gusti/c/008051172",
+            "filter": "categories:008051172"
+          },
+          {
+            "third_level_name": "Miele",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Confetture%2C-miele-e-creme-spalmabili/Miele/c/008051173",
+            "filter": "categories:008051173"
+          },
+          {
+            "third_level_name": "Creme spalmabili",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Confetture%2C-miele-e-creme-spalmabili/Creme-spalmabili/c/008051174",
+            "filter": "categories:008051174"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Merendine, torte e preparati",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Merendine%2C-torte-e-preparati/c/008052",
+        "filter": "categories:008052",
+        "third_level": [
+          {
+            "third_level_name": "Merendine",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Merendine%2C-torte-e-preparati/Merendine/c/008052175",
+            "filter": "categories:008052175"
+          },
+          {
+            "third_level_name": "Croissant e similari",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Merendine%2C-torte-e-preparati/Croissant-e-similari/c/008052176",
+            "filter": "categories:008052176"
+          },
+          {
+            "third_level_name": "Torte pronte",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Merendine%2C-torte-e-preparati/Torte-pronte/c/008052177",
+            "filter": "categories:008052177"
+          },
+          {
+            "third_level_name": "Preparati per torte",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Merendine%2C-torte-e-preparati/Preparati-per-torte/c/008052178",
+            "filter": "categories:008052178"
+          },
+          {
+            "third_level_name": "Preparati per dolci e dessert",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Merendine%2C-torte-e-preparati/Preparati-per-dolci-e-dessert/c/008052179",
+            "filter": "categories:008052179"
+          },
+          {
+            "third_level_name": "Lievito e guarnizioni",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Merendine%2C-torte-e-preparati/Lievito-e-guarnizioni/c/008052180",
+            "filter": "categories:008052180"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Pasticceria",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Pasticceria/c/008053",
+        "filter": "categories:008053",
+        "third_level": [
+          {
+            "third_level_name": "Pasticceria monogusto",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Pasticceria/Pasticceria-monogusto/c/008053181",
+            "filter": "categories:008053181"
+          },
+          {
+            "third_level_name": "Pasticceria assortita",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Pasticceria/Pasticceria-assortita/c/008053182",
+            "filter": "categories:008053182"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Caramelle e Chewing gum",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caramelle/c/008054",
+        "filter": "categories:008054",
+        "third_level": [
+          {
+            "third_level_name": "Caramelle dure",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caramelle/Caramelle-dure/c/008054183",
+            "filter": "categories:008054183"
+          },
+          {
+            "third_level_name": "Caramelle morbide",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caramelle/Caramelle-morbide/c/008054184",
+            "filter": "categories:008054184"
+          },
+          {
+            "third_level_name": "Confetti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caramelle/Confetti/c/008054185",
+            "filter": "categories:008054185"
+          },
+          {
+            "third_level_name": "Chewing gum",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Dispensa-dolce/Caramelle/Chewing-gum/c/008054186",
+            "filter": "categories:008054186"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Diete e benessere",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Prodotti senza glutine",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Diete-e-benessere/Prodotti-senza-glutine/c/009055",
+        "filter": "categories:009055",
+        "third_level": [
+          {
+            "third_level_name": "Dispensa dolce senza glutine",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Diete-e-benessere/Prodotti-senza-glutine/Dispensa-dolce-senza-glutine/c/009055188",
+            "filter": "categories:009055188"
+          },
+          {
+            "third_level_name": "Dispensa salata senza glutine",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Diete-e-benessere/Prodotti-senza-glutine/Dispensa-salata-senza-glutine/c/009055189",
+            "filter": "categories:009055189"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Integratori",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Diete-e-benessere/Integratori/c/009056",
+        "filter": "categories:009056",
+        "third_level": [
+          {
+            "third_level_name": "Integratori alimentari",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Diete-e-benessere/Integratori/Integratori-alimentari/c/009056190",
+            "filter": "categories:009056190"
+          },
+          {
+            "third_level_name": "Integratori vitaminici",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Diete-e-benessere/Integratori/Integratori-vitaminici/c/009056191",
+            "filter": "categories:009056191"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Mondo bimbi",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Alimenti per bimbi",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Alimenti-per-bimbi/c/010057",
+        "filter": "categories:010057",
+        "third_level": [
+          {
+            "third_level_name": "Latte per bambini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Alimenti-per-bimbi/Latte-per-bambini/c/010057192",
+            "filter": "categories:010057192"
+          },
+          {
+            "third_level_name": "Omogeneizzati carne e pesce",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Alimenti-per-bimbi/Omogeneizzati-carne-e-pesce/c/010057193",
+            "filter": "categories:010057193"
+          },
+          {
+            "third_level_name": "Omogeneizzati vegetali",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Alimenti-per-bimbi/Omogeneizzati-vegetali/c/010057194",
+            "filter": "categories:010057194"
+          },
+          {
+            "third_level_name": "Pasta e biscotti per bambini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Alimenti-per-bimbi/Pasta-e-biscotti-per-bambini/c/010057195",
+            "filter": "categories:010057195"
+          },
+          {
+            "third_level_name": "Altri alimenti per bambini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Alimenti-per-bimbi/Altri-alimenti-per-bambini/c/010057196",
+            "filter": "categories:010057196"
+          },
+          {
+            "third_level_name": "Posate e accessori",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Alimenti-per-bimbi/Posate-e-accessori/c/010057197",
+            "filter": "categories:010057197"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Biberon e ciucci ",
+        "subcategory_url": null,
+        "filter": null,
+        "third_level": [
+          {
+            "third_level_name": "Biberon",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Biberon-e-ciucci/Biberon/c/010058198",
+            "filter": "categories:010058198"
+          },
+          {
+            "third_level_name": "Ciucci",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Biberon-e-ciucci/Ciucci/c/010058199",
+            "filter": "categories:010058199"
+          },
+          {
+            "third_level_name": "Accessori per bambini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Biberon-e-ciucci/Accessori-per-bambini/c/010058200",
+            "filter": "categories:010058200"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Igiene e cura del corpo",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Igiene-e-cura-del-corpo/c/010059",
+        "filter": "categories:010059",
+        "third_level": [
+          {
+            "third_level_name": "Saponi, creme e olii",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Igiene-e-cura-del-corpo/Saponi%2C-creme-e-olii/c/010059201",
+            "filter": "categories:010059201"
+          },
+          {
+            "third_level_name": "Creme e olii",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Igiene-e-cura-del-corpo/Creme-e-olii/c/010059202",
+            "filter": "categories:010059202"
+          },
+          {
+            "third_level_name": "Salviettine",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Igiene-e-cura-del-corpo/Salviettine/c/010059203",
+            "filter": "categories:010059203"
+          },
+          {
+            "third_level_name": "Dentifrici e spazzolini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Igiene-e-cura-del-corpo/Dentifrici-e-spazzolini/c/010059204",
+            "filter": "categories:010059204"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Pannolini e mutandine",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Pannolini-e-mutandine/c/010060",
+        "filter": "categories:010060",
+        "third_level": [
+          {
+            "third_level_name": "Pannolini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Pannolini-e-mutandine/Pannolini/c/010060205",
+            "filter": "categories:010060205"
+          },
+          {
+            "third_level_name": "Mutandine",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Mondo-bimbi/Pannolini-e-mutandine/Mutandine/c/010060206",
+            "filter": "categories:010060206"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Cura persona",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Igiene del corpo",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Igiene-del-corpo/c/011061",
+        "filter": "categories:011061",
+        "third_level": [
+          {
+            "third_level_name": "Bagnoschiuma",
+            "third_level_url": null,
+            "filter": null
+          },
+          {
+            "third_level_name": "Bagnoschiuma profumati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Igiene-del-corpo/Bagnoschiuma-profumati/c/011061208",
+            "filter": "categories:011061208"
+          },
+          {
+            "third_level_name": "Docciaschiuma",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Igiene-del-corpo/Docciaschiuma/c/011061209",
+            "filter": "categories:011061209"
+          },
+          {
+            "third_level_name": "Detergenti intimi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Igiene-del-corpo/Detergenti-intimi/c/011061210",
+            "filter": "categories:011061210"
+          },
+          {
+            "third_level_name": "Saponi liquidi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Igiene-del-corpo/Saponi-liquidi/c/011061211",
+            "filter": "categories:011061211"
+          },
+          {
+            "third_level_name": "Saponi solidi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Igiene-del-corpo/Saponi-solidi/c/011061212",
+            "filter": "categories:011061212"
+          },
+          {
+            "third_level_name": "Fazzoletti e salviettine",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Igiene-del-corpo/Fazzoletti-e-salviettine/c/011061213",
+            "filter": "categories:011061213"
+          },
+          {
+            "third_level_name": "Spugne e accessori",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Igiene-del-corpo/Spugne-e-accessori/c/011061214",
+            "filter": "categories:011061214"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cura del corpo",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-del-corpo/c/011062",
+        "filter": "categories:011062",
+        "third_level": [
+          {
+            "third_level_name": "Creme viso",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-del-corpo/Creme-viso/c/011062215",
+            "filter": "categories:011062215"
+          },
+          {
+            "third_level_name": "Creme per mani e corpo",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-del-corpo/Creme-per-mani-e-corpo/c/011062216",
+            "filter": "categories:011062216"
+          },
+          {
+            "third_level_name": "Trattamenti per il viso",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-del-corpo/Trattamenti-per-il-viso/c/011062217",
+            "filter": "categories:011062217"
+          },
+          {
+            "third_level_name": "Creme solari e doposole",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-del-corpo/Creme-solari-e-doposole/c/011062218",
+            "filter": "categories:011062218"
+          },
+          {
+            "third_level_name": "Deodoranti uomo",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-del-corpo/Deodoranti/c/011062219",
+            "filter": "categories:011062219"
+          },
+          {
+            "third_level_name": "Deodoranti donna",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-del-corpo/Deodoranti-donna/c/011062220",
+            "filter": "categories:011062220"
+          },
+          {
+            "third_level_name": "Make-up e unghie",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-del-corpo/Make-up-e-unghie/c/011062221",
+            "filter": "categories:011062221"
+          },
+          {
+            "third_level_name": "Repellenti per insetti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-del-corpo/Repellenti-per-insetti/c/011062222",
+            "filter": "categories:011062222"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cura e igiene orale",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-orale/c/011063",
+        "filter": "categories:011063",
+        "third_level": [
+          {
+            "third_level_name": "Dentifrici",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-orale/Dentifrici/c/011063223",
+            "filter": "categories:011063223"
+          },
+          {
+            "third_level_name": "Dentifrici protettivi",
+            "third_level_url": null,
+            "filter": null
+          },
+          {
+            "third_level_name": "Colluttori",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-orale/Colluttori/c/011063225",
+            "filter": "categories:011063225"
+          },
+          {
+            "third_level_name": "Spazzolini",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-orale/Spazzolini/c/011063226",
+            "filter": "categories:011063226"
+          },
+          {
+            "third_level_name": "Spazzolini elettrici",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-orale/Spazzolini-elettrici/c/011063227",
+            "filter": "categories:011063227"
+          },
+          {
+            "third_level_name": "Dentiere e prodotti per l'igiene",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-orale/Dentiere-e-prodotti-per-l%27igiene/c/011063228",
+            "filter": "categories:011063228"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cura e igiene per capelli",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-per-capelli/c/011064",
+        "filter": "categories:011064",
+        "third_level": [
+          {
+            "third_level_name": "Shampoo per capelli normali",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-per-capelli/Shampoo-per-capelli-normali/c/011064229",
+            "filter": "categories:011064229"
+          },
+          {
+            "third_level_name": "Shampoo per capelli secchi e grassi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-per-capelli/Shampoo-per-capelli-secchi-e-grassi/c/011064230",
+            "filter": "categories:011064230"
+          },
+          {
+            "third_level_name": "Balsamo per capelli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-per-capelli/Balsamo-per-capelli/c/011064232",
+            "filter": "categories:011064232"
+          },
+          {
+            "third_level_name": "Antiforfora e trattamenti specifici ",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-per-capelli/Antiforfora-e-trattamenti-specifici-/c/011064231",
+            "filter": "categories:011064231"
+          },
+          {
+            "third_level_name": "Maschere e trattamenti per capelli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-per-capelli/Maschere-e-trattamenti-per-capelli/c/011064233",
+            "filter": "categories:011064233"
+          },
+          {
+            "third_level_name": "Coloranti per capelli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-per-capelli/Coloranti-per-capelli/c/011064234",
+            "filter": "categories:011064234"
+          },
+          {
+            "third_level_name": "Schiume, lacche, gel per capelli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-per-capelli/Schiume%2C-lacche%2C-gel-per-capelli/c/011064235",
+            "filter": "categories:011064235"
+          },
+          {
+            "third_level_name": "Accessori per capelli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cura-e-igiene-per-capelli/Accessori-per-capelli/c/011064236",
+            "filter": "categories:011064236"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Assorbenza",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Assorbenza/c/011065",
+        "filter": "categories:011065",
+        "third_level": [
+          {
+            "third_level_name": "Salvaslip",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Assorbenza/Salvaslip/c/011065237",
+            "filter": "categories:011065237"
+          },
+          {
+            "third_level_name": "Assorbenti sottili",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Assorbenza/Assorbenti-sottili/c/011065238",
+            "filter": "categories:011065238"
+          },
+          {
+            "third_level_name": "Utra sottili",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Assorbenza/Utra-sottili/c/011065239",
+            "filter": "categories:011065239"
+          },
+          {
+            "third_level_name": "Assorbenti interni",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Assorbenza/Assorbenti-interni/c/011065240",
+            "filter": "categories:011065240"
+          },
+          {
+            "third_level_name": "Assorbenti per incontinenza",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Assorbenza/Assorbenti-per-incontinenza/c/011065241",
+            "filter": "categories:011065241"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Rasatura e depilazione",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Rasatura-e-depilazione/c/011066",
+        "filter": "categories:011066",
+        "third_level": [
+          {
+            "third_level_name": "Rasoi usa e getta",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Rasatura-e-depilazione/Rasoi-usa-e-getta/c/011066242",
+            "filter": "categories:011066242"
+          },
+          {
+            "third_level_name": "Rasoi elettrici e ricambi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Rasatura-e-depilazione/Rasoi-elettrici-e-ricambi/c/011066243",
+            "filter": "categories:011066243"
+          },
+          {
+            "third_level_name": "Schiuma da barba, dopobarba e lozioni",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Rasatura-e-depilazione/Schiuma-da-barba%2C-dopobarba-e-lozioni/c/011066244",
+            "filter": "categories:011066244"
+          },
+          {
+            "third_level_name": "Prodotti per la depilazione",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Rasatura-e-depilazione/Prodotti-per-la-depilazione/c/011066245",
+            "filter": "categories:011066245"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cotone, medicazione e prevenzione",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cotone%2C-medicazione-e-prevenzione/c/011067",
+        "filter": "categories:011067",
+        "third_level": [
+          {
+            "third_level_name": "Cerotti e garze",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cotone%2C-medicazione-e-prevenzione/Cerotti-e-garze/c/011067246",
+            "filter": "categories:011067246"
+          },
+          {
+            "third_level_name": "Cotone e disinfettanti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cotone%2C-medicazione-e-prevenzione/Cotone-e-disinfettanti/c/011067247",
+            "filter": "categories:011067247"
+          },
+          {
+            "third_level_name": "Antisettici e profilassi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cotone%2C-medicazione-e-prevenzione/Antisettici-e-profilassi/c/011067248",
+            "filter": "categories:011067248"
+          },
+          {
+            "third_level_name": "Cura dei piedi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cotone%2C-medicazione-e-prevenzione/Cura-dei-piedi/c/011067249",
+            "filter": "categories:011067249"
+          },
+          {
+            "third_level_name": "Profilattici",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-persona/Cotone%2C-medicazione-e-prevenzione/Profilattici/c/011067250",
+            "filter": "categories:011067250"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Cura casa",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Bagno e casa",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Bagno-e-casa/c/012068",
+        "filter": "categories:012068",
+        "third_level": [
+          {
+            "third_level_name": "Detergenti bagno e wc",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Bagno-e-casa/Detergenti-bagno-e-wc/c/012068251",
+            "filter": "categories:012068251"
+          },
+          {
+            "third_level_name": "Detergente per pavimenti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Bagno-e-casa/Detergente-per-pavimenti/c/012068252",
+            "filter": "categories:012068252"
+          },
+          {
+            "third_level_name": "Detergente vetri, mobili, metalli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Bagno-e-casa/Detergente-vetri%2C-mobili%2C-metalli/c/012068253",
+            "filter": "categories:012068253"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Stoviglie e cucina",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Stoviglie-e-cucina/c/012069",
+        "filter": "categories:012069",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Bucato e tessuti",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Bucato-e-tessuti/c/012070",
+        "filter": "categories:012070",
+        "third_level": [
+          {
+            "third_level_name": "Ammorbidenti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Bucato-e-tessuti/Ammorbidenti/c/012070256",
+            "filter": "categories:012070256"
+          },
+          {
+            "third_level_name": "Candeggina e igienizzanti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Bucato-e-tessuti/Candeggina-e-igienizzanti/c/012070257",
+            "filter": "categories:012070257"
+          },
+          {
+            "third_level_name": "Detersivi liquidi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Bucato-e-tessuti/Detersivi-liquidi/c/012070258",
+            "filter": "categories:012070258"
+          },
+          {
+            "third_level_name": "Detersivi in polvere, solidi e tabs",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Bucato-e-tessuti/Detersivi-in-polvere%2C-solidi-e-tabs/c/012070259",
+            "filter": "categories:012070259"
+          },
+          {
+            "third_level_name": "Prodotti per lo stiro",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Bucato-e-tessuti/Prodotti-per-lo-stiro/c/012070260",
+            "filter": "categories:012070260"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Carta, rotoli e monouso",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Carta%2C-rotoli-e-monouso/c/012071",
+        "filter": "categories:012071",
+        "third_level": [
+          {
+            "third_level_name": "Carta igienica",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Carta%2C-rotoli-e-monouso/Carta-igienica/c/012071261",
+            "filter": "categories:012071261"
+          },
+          {
+            "third_level_name": "Rotoli di carta e tovaglioli",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Carta%2C-rotoli-e-monouso/Rotoli-di-carta-e-tovaglioli/c/012071262",
+            "filter": "categories:012071262"
+          },
+          {
+            "third_level_name": "Sacchetti e borse",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Carta%2C-rotoli-e-monouso/Sacchetti-e-borse/c/012071263",
+            "filter": "categories:012071263"
+          },
+          {
+            "third_level_name": "Alluminio e pellicole",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Carta%2C-rotoli-e-monouso/Alluminio-e-pellicole/c/012071264",
+            "filter": "categories:012071264"
+          },
+          {
+            "third_level_name": "Posate e stuzzicadenti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Carta%2C-rotoli-e-monouso/Posate-e-stuzzicadenti/c/012071265",
+            "filter": "categories:012071265"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Accessori per pulire",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Accessori-per-pulire/c/012072",
+        "filter": "categories:012072",
+        "third_level": [
+          {
+            "third_level_name": "Spugne e guanti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Accessori-per-pulire/Spugne-e-guanti/c/012072266",
+            "filter": "categories:012072266"
+          },
+          {
+            "third_level_name": "Scope e manici",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Accessori-per-pulire/Scope-e-manici/c/012072267",
+            "filter": "categories:012072267"
+          },
+          {
+            "third_level_name": "Panni",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Accessori-per-pulire/Panni/c/012072268",
+            "filter": "categories:012072268"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cura scarpe",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Cura-scarpe/c/012073",
+        "filter": "categories:012073",
+        "third_level": [
+          {
+            "third_level_name": "Pulitori per scarpe",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Cura-scarpe/Pulitori-per-scarpe/c/012073269",
+            "filter": "categories:012073269"
+          },
+          {
+            "third_level_name": "Accessori per scarpe",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Cura-scarpe/Accessori-per-scarpe/c/012074270",
+            "filter": "categories:012074270"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Profumatori d'ambiente",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Profumatori-d%27ambiente/c/012075",
+        "filter": "categories:012075",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Insetticidi",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Cura-casa/Insetticidi/c/012076",
+        "filter": "categories:012076",
+        "third_level": []
+      }
+    ]
+  },
+  {
+    "category_name": "Accessori e cancelleria",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Pile e lampadine",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Pile-e-lampadine/c/013077",
+        "filter": "categories:013077",
+        "third_level": [
+          {
+            "third_level_name": "Pile",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Pile-e-lampadine/Pile/c/013077273",
+            "filter": "categories:013077273"
+          },
+          {
+            "third_level_name": "Lampadine e cavi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Pile-e-lampadine/Lampadine-e-cavi/c/013077274",
+            "filter": "categories:013077274"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cancelleria",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Cancelleria/c/013078",
+        "filter": "categories:013078",
+        "third_level": [
+          {
+            "third_level_name": "Cancelleria per ufficio",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Cancelleria/Cancelleria-per-ufficio/c/013078275",
+            "filter": "categories:013078275"
+          },
+          {
+            "third_level_name": "Cancelleria per scuola",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Cancelleria/Cancelleria-per-scuola/c/013078276",
+            "filter": "categories:013078276"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Accessori casa e cucina",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Accessori-casa-e-cucina/c/013079",
+        "filter": "categories:013079",
+        "third_level": [
+          {
+            "third_level_name": "Accessori per bagno",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Accessori-casa-e-cucina/Accessori-per-bagno/c/013079277",
+            "filter": "categories:013079277"
+          },
+          {
+            "third_level_name": "Accessori per casa",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Accessori-casa-e-cucina/Accessori-per-casa/c/013079278",
+            "filter": "categories:013079278"
+          },
+          {
+            "third_level_name": "Accessori per cucina",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Accessori-casa-e-cucina/Accessori-per-cucina/c/013079279",
+            "filter": "categories:013079279"
+          },
+          {
+            "third_level_name": "Accessori per party",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Accessori-casa-e-cucina/Accessori-per-party/c/013079280",
+            "filter": "categories:013079280"
+          },
+          {
+            "third_level_name": "Abbigliamento",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Accessori-casa-e-cucina/Abbigliamento/c/013079281",
+            "filter": "categories:013079281"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Articoli per l'auto",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Articoli-per-l%27auto/c/013080",
+        "filter": "categories:013080",
+        "third_level": [
+          {
+            "third_level_name": "Articoli per l'auto",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Articoli-per-l%27auto/Articoli-per-l%27auto/c/013080282",
+            "filter": "categories:013080282"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Fai da te",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Accessori-e-cancelleria/Fai-da-te/c/013081",
+        "filter": "categories:013081",
+        "third_level": []
+      }
+    ]
+  },
+  {
+    "category_name": "Amici animali",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Cibo per cani",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Cibo-per-cani/c/014082",
+        "filter": "categories:014082",
+        "third_level": [
+          {
+            "third_level_name": "Cibo secco per cani",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Cibo-per-cani/Cibo-secco-per-cani/c/014082285",
+            "filter": "categories:014082285"
+          },
+          {
+            "third_level_name": "Cibo umido per cani",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Cibo-per-cani/Cibo-umido-per-cani/c/014082286",
+            "filter": "categories:014082286"
+          },
+          {
+            "third_level_name": "Snacks e biscotti per cani",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Cibo-per-cani/Snacks-e-biscotti-per-cani/c/014082287",
+            "filter": "categories:014082287"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cibo per gatti",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Cibo-per-gatti/c/014083",
+        "filter": "categories:014083",
+        "third_level": [
+          {
+            "third_level_name": "Cibo secco per gatti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Cibo-per-gatti/Cibo-secco-per-gatti/c/014083288",
+            "filter": "categories:014083288"
+          },
+          {
+            "third_level_name": "Cibo umido per gatti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Cibo-per-gatti/Cibo-umido-per-gatti/c/014083289",
+            "filter": "categories:014083289"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Cibo per altri animali",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Cibo-per-altri-animali/c/014084",
+        "filter": "categories:014084",
+        "third_level": []
+      },
+      {
+        "subcategory_name": "Lettiere e accessori per animali",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Lettiere-e-accessori-per-animali/c/014085",
+        "filter": "categories:014085",
+        "third_level": [
+          {
+            "third_level_name": "Lettiere per gatti e altri animali",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Lettiere-e-accessori-per-animali/Lettiere-per-gatti-e-altri-animali/c/014085291",
+            "filter": "categories:014085291"
+          },
+          {
+            "third_level_name": "Igiene del cane e del gatto ",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Lettiere-e-accessori-per-animali/Igiene-del-cane-e-del-gatto-/c/014085292",
+            "filter": "categories:014085292"
+          },
+          {
+            "third_level_name": "Accessori e giochi per animali",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Amici-animali/Lettiere-e-accessori-per-animali/Accessori-e-giochi-per-animali/c/014085294",
+            "filter": "categories:014085294"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Birra, vino e alcolici",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Birre",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Birre/c/015086",
+        "filter": "categories:015086",
+        "third_level": [
+          {
+            "third_level_name": "Birre chiare",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Birre/Birre-chiare/c/015086295",
+            "filter": "categories:015086295"
+          },
+          {
+            "third_level_name": "Birre scure e speciali",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Birre/Birre-scure-e-speciali/c/015086296",
+            "filter": "categories:015086296"
+          },
+          {
+            "third_level_name": "Birre in lattina",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Birre/Birre-in-lattina/c/015086297",
+            "filter": "categories:015086297"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Vino",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Vino/c/015087",
+        "filter": "categories:015087",
+        "third_level": [
+          {
+            "third_level_name": "Vino rosso",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Vino/Vino-rosso/c/015087298",
+            "filter": "categories:015087298"
+          },
+          {
+            "third_level_name": "Vino bianco",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Vino/Vino-bianco/c/015087299",
+            "filter": "categories:015087299"
+          },
+          {
+            "third_level_name": "Vino rosato",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Vino/Vino-rosato/c/015087300",
+            "filter": "categories:015087300"
+          },
+          {
+            "third_level_name": "Mezze bottiglie di vino",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Vino/Mezze-bottiglie-di-vino/c/015087301",
+            "filter": "categories:015087301"
+          },
+          {
+            "third_level_name": "Vino estero",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Vino/Vino-estero/c/015087302",
+            "filter": "categories:015087302"
+          },
+          {
+            "third_level_name": "Vino novello",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Vino/Vino-novello/c/015087303",
+            "filter": "categories:015087303"
+          },
+          {
+            "third_level_name": "Vino dolce e liquoroso",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Vino/Vino-dolce-e-liquoroso/c/015087304",
+            "filter": "categories:015087304"
+          },
+          {
+            "third_level_name": "Vino in brick e formati extra",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Vino/Vino-in-brick-e-formati-extra/c/015087305",
+            "filter": "categories:015087305"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Bollicine",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Bollicine/c/015088",
+        "filter": "categories:015088",
+        "third_level": [
+          {
+            "third_level_name": "Prosecco",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Bollicine/Prosecco/c/015088306",
+            "filter": "categories:015088306"
+          },
+          {
+            "third_level_name": "Champagne",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Bollicine/Champagne/c/015088307",
+            "filter": "categories:015088307"
+          },
+          {
+            "third_level_name": "Spumanti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Bollicine/Spumanti/c/015088308",
+            "filter": "categories:015088308"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Aperitivi",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Aperitivi/c/015089",
+        "filter": "categories:015089",
+        "third_level": [
+          {
+            "third_level_name": "Alcolici",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Aperitivi/Alcolici/c/015089309",
+            "filter": "categories:015089309"
+          },
+          {
+            "third_level_name": "Analcolici",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Aperitivi/Analcolici/c/015089310",
+            "filter": "categories:015089310"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Distillati",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Distillati/c/015090",
+        "filter": "categories:015090",
+        "third_level": [
+          {
+            "third_level_name": "Brandy e cognac",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Distillati/Brandy-e-cognac/c/015090311",
+            "filter": "categories:015090311"
+          },
+          {
+            "third_level_name": "Gin e vodka",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Distillati/Gin-e-vodka/c/015090312",
+            "filter": "categories:015090312"
+          },
+          {
+            "third_level_name": "Rum e tequila",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Distillati/Rum-e-tequila/c/015090313",
+            "filter": "categories:015090313"
+          },
+          {
+            "third_level_name": "Whisky e bourbon",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Distillati/Whisky-e-bourbon/c/015090314",
+            "filter": "categories:015090314"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Amari e liquori",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Amari-e-liquori/c/015091",
+        "filter": "categories:015091",
+        "third_level": [
+          {
+            "third_level_name": "Amari",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Amari-e-liquori/Amari/c/015091315",
+            "filter": "categories:015091315"
+          },
+          {
+            "third_level_name": "Liquori",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Amari-e-liquori/Liquori/c/015091316",
+            "filter": "categories:015091316"
+          },
+          {
+            "third_level_name": "Grappe",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Birra%2C-vino-e-alcolici/Amari-e-liquori/Grappe/c/015091317",
+            "filter": "categories:015091317"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Acqua, bibite e succhi",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Acqua",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Acqua/c/016092",
+        "filter": "categories:016092",
+        "third_level": [
+          {
+            "third_level_name": "Acqua naturale",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Acqua/Acqua-naturale/c/016092318",
+            "filter": "categories:016092318"
+          },
+          {
+            "third_level_name": "Acqua frizzante",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Acqua/Acqua-frizzante/c/016092319",
+            "filter": "categories:016092319"
+          },
+          {
+            "third_level_name": "Acqua leggermente frizzante",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Acqua/Acqua-leggermente-frizzante/c/016092320",
+            "filter": "categories:016092320"
+          },
+          {
+            "third_level_name": "Acqua benessere",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Acqua/Acqua-benessere/c/016092321",
+            "filter": "categories:016092321"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Bibite",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Bibite/c/016093",
+        "filter": "categories:016093",
+        "third_level": [
+          {
+            "third_level_name": "Cole",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Bibite/Cole/c/016093322",
+            "filter": "categories:016093322"
+          },
+          {
+            "third_level_name": "Bibite agli agrumi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Bibite/Bibite-agli-agrumi/c/016093323",
+            "filter": "categories:016093323"
+          },
+          {
+            "third_level_name": "Acque toniche",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Bibite/Acque-toniche/c/016093324",
+            "filter": "categories:016093324"
+          },
+          {
+            "third_level_name": "Bibite energizzanti e per il benessere",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Bibite/Bibite-energizzanti-e-per-il-benessere/c/016093325",
+            "filter": "categories:016093325"
+          },
+          {
+            "third_level_name": "Te",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Bibite/Te/c/016093326",
+            "filter": "categories:016093326"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Nettare e succhi",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Nettare-e-succhi/c/016094",
+        "filter": "categories:016094",
+        "third_level": [
+          {
+            "third_level_name": "Succo agli agrumi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Nettare-e-succhi/Succo-agli-agrumi/c/016094327",
+            "filter": "categories:016094327"
+          },
+          {
+            "third_level_name": "Succo formato bottiglia",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Nettare-e-succhi/Succo-formato-bottiglia/c/016094328",
+            "filter": "categories:016094328"
+          },
+          {
+            "third_level_name": "Succo formato brick",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Nettare-e-succhi/Succo-formato-brick/c/016094329",
+            "filter": "categories:016094329"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Solubili e sciroppi",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Solubili-e-sciroppi/c/016095",
+        "filter": "categories:016095",
+        "third_level": [
+          {
+            "third_level_name": "Prodotti solubili ed effervescienti",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Solubili-e-sciroppi/Prodotti-solubili-ed-effervescienti/c/016095330",
+            "filter": "categories:016095330"
+          },
+          {
+            "third_level_name": "Sciroppi",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Acqua%2C-bibite-e-succhi/Solubili-e-sciroppi/Sciroppi/c/016095331",
+            "filter": "categories:016095331"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Surgelati e gelati",
+    "has_subcategories": true,
+    "subcategories": [
+      {
+        "subcategory_name": "Surgelati Vegetali ",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Surgelati-vegetali/c/017096",
+        "filter": "categories:017096",
+        "third_level": [
+          {
+            "third_level_name": "Minestroni surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Surgelati-vegetali/Minestroni-surgelati/c/017096332",
+            "filter": "categories:017096332"
+          },
+          {
+            "third_level_name": "Patate surgelate",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Surgelati-vegetali/Patate-surgelate/c/017096333",
+            "filter": "categories:017096333"
+          },
+          {
+            "third_level_name": "Piselli surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Surgelati-vegetali/Piselli-surgelati/c/017096334",
+            "filter": "categories:017096334"
+          },
+          {
+            "third_level_name": "Spinaci surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Surgelati-vegetali/Spinaci-surgelati/c/017096335",
+            "filter": "categories:017096335"
+          },
+          {
+            "third_level_name": "Contorni misti surgelati di verdure",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Surgelati-vegetali/Contorni-misti-surgelati-di-verdure/c/017096336",
+            "filter": "categories:017096336"
+          },
+          {
+            "third_level_name": "Aromi surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Surgelati-vegetali/Aromi-surgelati/c/017096337",
+            "filter": "categories:017096337"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Pizze e torte salate",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Pizze-e-torte-salate/c/017097",
+        "filter": "categories:017097",
+        "third_level": [
+          {
+            "third_level_name": "Pizze surgelate",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Pizze-e-torte-salate/Pizze-surgelate/c/017097338",
+            "filter": "categories:017097338"
+          },
+          {
+            "third_level_name": "Focacce e torte salate surgelate",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Pizze-e-torte-salate/Focacce-e-torte-salate-surgelate/c/017097339",
+            "filter": "categories:017097339"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Piatti pronti surgelati",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Piatti-pronti/c/017098",
+        "filter": "categories:017098",
+        "third_level": [
+          {
+            "third_level_name": "Primi piatti surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Piatti-pronti/Primi-piatti-surgelati/c/017098340",
+            "filter": "categories:017098340"
+          },
+          {
+            "third_level_name": "Piatti vegetariani e vegani surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Piatti-pronti/Piatti-vegetariani-e-vegani-surgelati/c/017098341",
+            "filter": "categories:017098341"
+          },
+          {
+            "third_level_name": "Secondi e contorni surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Piatti-pronti/Secondi-e-contorni-surgelati/c/017098342",
+            "filter": "categories:017098342"
+          },
+          {
+            "third_level_name": "Piatti pronti surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Piatti-pronti/Piatti-pronti-surgelati/c/017098343",
+            "filter": "categories:017098343"
+          },
+          {
+            "third_level_name": "Prodotti senza glutine surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Piatti-pronti/Prodotti-senza-glutine-surgelati/c/017098344",
+            "filter": "categories:017098344"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Carne e pesce",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Carne-e-pesce/c/017099",
+        "filter": "categories:017099",
+        "third_level": [
+          {
+            "third_level_name": "Carne e pollame surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Carne-e-pesce/Carne-e-pollame-surgelati/c/017099345",
+            "filter": "categories:017099345"
+          },
+          {
+            "third_level_name": "Filetti e tranci di pesce surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Carne-e-pesce/Filetti-e-tranci-di-pesce-surgelati/c/017099346",
+            "filter": "categories:017099346"
+          },
+          {
+            "third_level_name": "Crostacei surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Carne-e-pesce/Crostacei-surgelati/c/017099347",
+            "filter": "categories:017099347"
+          },
+          {
+            "third_level_name": "Molluschi surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Carne-e-pesce/Molluschi-surgelati/c/017099348",
+            "filter": "categories:017099348"
+          },
+          {
+            "third_level_name": "Misto per sughi surgelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Carne-e-pesce/Misto-per-sughi-surgelati/c/017099349",
+            "filter": "categories:017099349"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Gelati",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Gelati/c/017100",
+        "filter": "categories:017100",
+        "third_level": [
+          {
+            "third_level_name": "Biscotti gelato",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Gelati/Biscotti-gelato/c/017100350",
+            "filter": "categories:017100350"
+          },
+          {
+            "third_level_name": "Coni gelato",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Gelati/Coni-gelato/c/017100351",
+            "filter": "categories:017100351"
+          },
+          {
+            "third_level_name": "Gelati in vaschetta e coppetta",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Gelati/Gelati-in-vaschetta-e-coppetta/c/017100352",
+            "filter": "categories:017100352"
+          },
+          {
+            "third_level_name": "Stecchi gelato",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Gelati/Stecchi-gelato/c/017100353",
+            "filter": "categories:017100353"
+          },
+          {
+            "third_level_name": "Altri formati di gelati",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Gelati/Altri-formati-di-gelati/c/017100355",
+            "filter": "categories:017100355"
+          },
+          {
+            "third_level_name": "Gelati a base vegetale",
+            "third_level_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Gelati/Gelati-a-base-vegetale/c/017100356",
+            "filter": "categories:017100356"
+          }
+        ]
+      },
+      {
+        "subcategory_name": "Dessert e torte surgelate",
+        "subcategory_url": "https://www.spesaonline.unes.it/u2/Surgelati-e-gelati/Dessert-e-torte-surgelate-/c/017101",
+        "filter": "categories:017101",
+        "third_level": []
+      }
+    ]
+  }
+]
